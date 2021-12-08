@@ -1,0 +1,2 @@
+Missing `preventDefault` on event
+Loss of function context (this).
